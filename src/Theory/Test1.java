@@ -1,9 +1,6 @@
 package Theory;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-
-public class test {
+public class Test1 {
     private String name;
     private int age;
     public String address;
@@ -27,8 +24,10 @@ public class test {
         } else {
             System.out.println("tuổi không thỏa mãn");
         }
-
     }
+    double n;
+    int m = (int) n;
+    double a = m;
 }
 
 
